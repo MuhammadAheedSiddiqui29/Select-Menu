@@ -61,3 +61,7 @@
 .options:hover{
     background: rgba(225, 225, 225, 0.7);;
 }
+
+.hide{
+    visibility: hidden;
+}
